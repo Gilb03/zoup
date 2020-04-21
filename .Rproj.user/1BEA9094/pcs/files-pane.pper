@@ -1,0 +1,9 @@
+{
+    "path" : "~/src/python-course/zoup/scraper",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
